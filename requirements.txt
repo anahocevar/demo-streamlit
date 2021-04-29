@@ -1,5 +1,0 @@
-pandas
-streamlit
-altair
-numpy
-vega_datasets
