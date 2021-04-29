@@ -1,3 +1,2 @@
 # Streamlit demo
-Streamlit 202101 demo
-This is a demo.
+This is a demo of a simple streamlit app.
