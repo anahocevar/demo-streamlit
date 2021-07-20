@@ -1,5 +1,4 @@
 pandas
 streamlit
-altair
+matplotlib
 numpy
-vega_datasets
